@@ -93,3 +93,13 @@ section{
 }
 
 
+
+footer{
+    background: black;
+    color: white;
+}
+
+footer a{
+    height: 20px;
+    width: 20px;
+}
